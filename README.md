@@ -1,21 +1,12 @@
-<h1 align="center">Hey there 👋🏼, I'm Yessenia Mora Esquivel</h1>
-<h3 align="center">I love programming and learning new and interesting things.</h3>
+<h1 align="center">Eng. Yessi says "Hellooo, World!"</h1>
+<h3 align="center">I enjoy programming, drink coffee and at night I'm the bug. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasx73&label=Profile%20views&color=0e75b6&style=flat" alt="yasx73" /> </p>
 
-- 📒 I’m currently studing at **UAEMéx**
+- 👾 Computer Engineering Student at **UAEMéx**
+- 👾 B1 English Level
+- 👾 Python Lover
+- 👾 I hope to add more bullets soon (Working to achieve it)
 
-- 🌱 I’m currently learning **Python**
-
-- 🎓 I’m a sixth semester student of **Computer engineering**
-
-- 🤝 I’m looking for growth as a **computer engineer, new learning and career opportunities.**
-
-- 🗽 English level **B1**
-
-- 📫 How to reach me **yesica.roma.1995@gmail.com**
-
-- 📈 I´m interested in **AI and data science.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
