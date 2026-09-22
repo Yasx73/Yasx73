@@ -1,11 +1,18 @@
-<h1 align="center">Eng. Yessi says "Hellooo, World!"</h1>
-<h3 align="center">I enjoy programming, drink coffee and at night I'm the bug. </h3>
+<h1 align="center">Hi! <code>&lt;/Eng. Yessi&gt;</code> is here 👾</h1>
+<h3 align="center">Imagination into reality? Just code it</h3>
 
+<h3>About me</h3>
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWxwaG5sOGdqNTNkM3dieHBydmRjaDBoa3hzZnNnbHlocXFhbW1vMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f5E38t0xshEXzUG8gR/giphy.gif" width="300"/>
 
-- 👾 Computer Engineering Student at **UAEMéx**
-- 👾 B1 English Level
-- 👾 Python Lover
-- 👾 I hope to add more bullets soon (Working to achieve it)
+I'm passionate about technology, and therefore, I want to learn as much as I can. One of my goals is to make a social impact through my ideas and technology.
+
+* I'm Computer Engineer
+* I'm a self taught Full-Stack Developer
+* I have a strong interest in Data Science and Artificial Intelligence
+* My favorite animal are cats: they're elegants ans stealthy 🐈‍⬛
+* I listen english music, by bands like Imagine Dragons, One Republic and The Neighborhood
+* I love blue color and cold weahter ☃️
+* And last but not least, my favorite food is pozole 😋
 
 
 <h3 align="left">Connect with me:</h3>
