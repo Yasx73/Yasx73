@@ -15,6 +15,23 @@ I'm passionate about technology, and therefore, I want to learn as much as I can
 * And last but not least, my favorite food is pozole 😋
 
 
+<h3 align="left">Languages and Tools:</h3>
+<p>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40">
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40">
+  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="40">
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="40">
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40">
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40">
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" width="40">
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40">
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40">
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40">
+  <img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" width="40">
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yessenia mora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yessenia mora" height="30" width="40" /></a>
@@ -23,10 +40,4 @@ I'm passionate about technology, and therefore, I want to learn as much as I can
 <a href="https://www.hackerrank.com/@yesica_roma_1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@yesica_roma_1995" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasx73&show_icons=true&locale=en&layout=compact" alt="yasx73" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasx73&show_icons=true&locale=en" alt="yasx73" /></p>
 
