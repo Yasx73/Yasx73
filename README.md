@@ -18,17 +18,9 @@ I'm passionate about technology, and therefore, I want to learn as much as I can
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40">
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40">
-  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="40">
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="40">
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40">
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" width="40">
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40">
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40">
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40">
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40">
-  <img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" width="40">
 </p>
 
 
