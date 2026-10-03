@@ -27,7 +27,7 @@ I'm passionate about technology, and therefore, I want to learn as much as I can
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yessenia-mora-esquivel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yessenia mora" height="30" width="40" /></a>
-<a href="https://www.facebook.com/share/14pXzeX6a6t/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yessi wresq" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/1VoLKo8CcW/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yessi wresq" height="30" width="40" /></a>
 <a href="https://instagram.com/yessi_me357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yessi_me357" height="30" width="40" /></a>
 </p>
 
